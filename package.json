@@ -1,0 +1,14 @@
+{
+    "name": "coffee-shop-app",
+    "version": "1.0.0",
+    "preferGlobal": true,
+    "bin": {
+        "coffee-shop": "./bin/index.js"
+    },
+    "dependencies": {
+        "colors": "^1.2.1",
+        "commander": "^2.15.1",
+        "inquirer": "^5.2.0",
+        "pad": "^2.0.3"
+    }
+}
